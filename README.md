@@ -26,7 +26,7 @@ A aplicação tem como funções internas
 - [x] Deve ser possivel atulizar dados da conta do cliente
 - [x] Deve ser possivel obter dados da conta do cliente
 - [x] Deve ser possivel deletar uma conta
-- [] Deve ser possivel 
+- [x] Deve ser possivel fazer balanço da conta
 
 #### Regras de negócio
 
